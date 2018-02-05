@@ -1,12 +1,18 @@
 body {
-width: 960px;
+width: auto;
 background-color: white;
 height: auto;
-align-content: center;
+float:  center;
 }
 
 p {
 font-size: 18px;
 
 
+}
+
+#wrap {
+/*align-content: center;*/
+width: 960px;
+text-align: center;
 }
